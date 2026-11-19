@@ -17,6 +17,7 @@ Self-directed research studies on public data by [Mikhail Serikov](https://githu
 #### Grids and planning
 - [de-bidding-zones](https://github.com/serikov-energy-systems/de-bidding-zones): one German bidding zone against a north/south split on the open transmission grid (flow-based, redispatch, nodal benchmark)
 - [de-feeder-storage-risk](https://github.com/serikov-energy-systems/de-feeder-storage-risk): battery or reinforcement on a medium-voltage feeder, two-stage planning with EVPI by uncertainty source
+- [hamburg-ebus-scheduling](https://github.com/serikov-energy-systems/hamburg-ebus-scheduling): electric bus scheduling with opportunity charging on the Hamburg HVV timetable, ALNS, CP-SAT and MILP on one cost function, winter consumption scenarios, FastAPI service (assumed costs, no operator data)
 - [tyndp-exit-tracing](https://github.com/serikov-energy-systems/tyndp-exit-tracing): what happens to German transmission investments after they leave the TYNDP
 
 **Related:** storm damage to the grid in [serikov-climate-risk](https://github.com/serikov-climate-risk) and market valuation of storage in [serikov-power-markets](https://github.com/serikov-power-markets)
